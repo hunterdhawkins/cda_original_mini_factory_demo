@@ -1,1 +1,7 @@
-# cda_original_mini_factory_demo
+# CDA Original Mini Factory Demo
+
+## Install Instructions
+
+## Issues
+
+## Hardware
